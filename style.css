@@ -1,0 +1,39 @@
+body
+{
+    margin-top: 100px;
+    text-align: center;
+    background-image: url("5.png");
+    background-size: cover;
+    
+}
+.Btn
+{
+    margin: 5px;
+}
+.lidec
+{
+    text-decoration: none;
+    color: rgb(2, 36, 37);
+    font-weight: bolder;
+    
+}
+
+button{
+padding: 7px;
+margin: 3px;
+color: black;
+font-weight: bold;
+background-color: rgb(24, 139, 139);
+border-radius: 10px;
+border: 1px solid grey;
+box-sizing: border-box;
+box-shadow: rgb(22, 50, 51) 5px 6px 3px 2px;
+}
+#todo{
+box-sizing: border-box;
+box-shadow: rgb(22, 50, 51) 5px 6px 3px 2px;
+border-radius: 10px;
+border: 1px solid grey;
+padding: 9px;
+margin: 5px;
+}
